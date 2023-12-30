@@ -1,4 +1,4 @@
-# pin-match-js
+# Pin Matcher
 
 1. Left side click the generate button for a new key.
 2. Then Right side press that number.
